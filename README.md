@@ -1,6 +1,6 @@
 # Priority Scoring App — Product Deliverables & Epics
 
-A lightweight React + Tailwind app to help Product Owners prioritize **Product Deliverables (PDs)** and **Epics**, with ROI as the main driver.
+A lightweight React + Tailwind app to help Product Mangers and Product Owners prioritize **Product Deliverables (PDs)** and **Epics**, with ROI as the main driver.
 
 ## Features
 - ROI-first scoring with editable weights
